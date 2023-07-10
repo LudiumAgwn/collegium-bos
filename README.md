@@ -1,5 +1,5 @@
 # BOS 콜리지움 미션북
-BOS 미션 실습을 위한 자료 페이지입니다. BOS 이론 자료는 [루디움 워크북](https://collegium-bos.ludium.world/forums/Q9AHNXN2D/threads/T3FHEZHD6)을 참고해주세요. 미션 수행 페이지 링크를 클릭하시면 BOS 컴포넌트 작성을 위한 상세 가이드를 확인할 수 있습니다.
+BOS 미션 실습을 위한 자료 페이지입니다. BOS 이론 자료는 [루디움 워크북](https://collegium-bos.ludium.world/forums/Q9AHNXN2D/threads/T3FHEZHD6)을 참고해주세요. 미션별 수행 페이지 바로가기 링크를 클릭하시면 BOS 컴포넌트 작성을 위한 상세 가이드를 확인할 수 있습니다.
 
 ---
 ## Mission 1 - 컴포넌트와 컴포지션 만들기
